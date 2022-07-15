@@ -1,7 +1,10 @@
 # 💫About Me :
 
 I am a full-stack developer with more experience in front-end using React, Tailwindcss and other great frameworks.
-I love to use open source programs and I'm passionate about "ricing" my linux system and configuring Vim/Neovim.
+I love to use open source programs and I'm passionate about linux systems and CLI applications such as Vim/Neovim.
+
+I mainly use Neovim as my IDE but also trying to learn to use Emacs here and there.
+I'm running GNU/Linux as my everyday operating system but I have the bad habbit of distro hopping very often. I'm always hopping around Arch and Arch based systems because I prefer the accessibility to latest programs and the convenience of a rolling releace distro. Right now I have settled with Garuda  and the beautiful Sway WM
 
 ## 🌐Socials
 
