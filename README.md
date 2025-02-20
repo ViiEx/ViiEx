@@ -1,5 +1,15 @@
 # 💫 About Me:
-I'm a front end developer working full time for Division By Zero. I love experimenting with new<br>languages and frameworks as well as new technologies.<br><br>🔭 I’m currently working on my NeoVim configuration.<br>🌱 I’m currently learning Lua and Svelte<br>💬 Ask me about Javascript/Typescript and front-end frameworks.<br>⚡ Fun fact: I use Arch BTW.
+I'm a front end developer working full time for Division By Zero. I love experimenting with new<br>languages and frameworks as well as new technologies.
+<br><br>
+👨‍💻 All of my projects are available at [vasilis-chri.gr](https://vasilis-chri.gr)
+<br>
+📝 I write articles on [vasilis-chri.gr/articles](https://vasilis-chri.gr/articles)
+<br>
+💬 Ask me about **react, angular, tailwind and other front-end frameworks**
+<br>
+📫 How to reach me **vaschristopoulo@gmail.com**
+<br>
+⚡ Fun fact **If you have issues with your OS change to Linux... even if you are already using Linux**
 
 
 ## 🌐 Socials:
@@ -27,7 +37,7 @@ I'm a front end developer working full time for Division By Zero. I love experim
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=21654k24ki3awzrdfbmjftqty&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=true" /></div>  
+<div align="center"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=21654k24ki3awzrdfbmjftqty&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=true" /></div>  
 
 <br/>  
 
