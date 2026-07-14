@@ -3,8 +3,6 @@ I'm a front end developer working full time for Division By Zero. I love experim
 <br><br>
 👨‍💻 All of my projects are available at [vasilis-chri.gr](https://vasilis-chri.gr)
 <br>
-📝 I write articles on [vasilis-chri.gr/articles](https://vasilis-chri.gr/articles)
-<br>
 💬 Ask me about **react, angular, tailwind and other front-end frameworks**
 <br>
 📫 How to reach me **vaschristopoulo@gmail.com**
